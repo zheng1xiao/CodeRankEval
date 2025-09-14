@@ -1,4 +1,3 @@
-Please refer to the script files for detailed configuration and parameter options.
 # CodeRankEval: Benchmarking and Analyzing LLM Performance for Code Ranking
 
 This project provides the benchmark dataset introduced in the paper "CodeRankEval: Benchmarking and Analyzing LLM Performance for Code Ranking". It aims to evaluate and analyze the performance of large language models (LLMs) on code ranking tasks.
